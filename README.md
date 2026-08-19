@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 MovieIQ
-
+live streamlit link :- https://movieiq-movie-success-revenue-analytics-pxptbtcpqwekos6ae6lrde.streamlit.app/
 ### *Predictive Analytics on Film Success*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
